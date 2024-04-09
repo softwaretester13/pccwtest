@@ -1,0 +1,1 @@
+Answer to Technical Exam To run : right click on the POM and run as maven test
