@@ -1,0 +1,15 @@
+# Compiled class file
+target/
+
+# Ignore IDE-specific files
+.classpath
+.project
+.settings/
+
+# Ignore build artifacts
+*.jar
+*.tar.gz
+*.zip
+
+# Ignore log files
+*.log
